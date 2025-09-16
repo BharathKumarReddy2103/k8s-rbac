@@ -7,3 +7,4 @@ metadata:
     app.kubernetes.io/managed-by: eksctl
   name: roboshop-mysql-secret-reader
   namespace: roboshop
+  
