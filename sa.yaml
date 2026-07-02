@@ -39,3 +39,4 @@ spec:
   - name: awscli
     image: amazon/aws-cli
     command: ["sleep","10000"]
+    
